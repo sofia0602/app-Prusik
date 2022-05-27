@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "username": "d",
+      "email": "sofiia.prusik@oa.edu.ua",
+      "createdTime": "20.09.21",
+      "modifyTime": "24.05.2022, 23:21:28"
+    },
+    {
+      "id": 6,
+      "username": "Sofiia Prusik",
+      "email": "sofiia.prusik@oa.edu.ua",
+      "createdTime": "20.09.21",
+      "modifyTime": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "author": "Prusik",
+      "title": "Kalyna",
+      "description": "It is very beautiful picture",
+      "price": 300,
+      "picture": ""
+    }
+  ]
+}
